@@ -12,6 +12,8 @@
 # python -m http.server 8080
 
 import cohere
+import numpy
+import matplotlib as plt
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
