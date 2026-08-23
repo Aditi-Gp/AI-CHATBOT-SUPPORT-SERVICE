@@ -20,7 +20,7 @@ An AI-powered chatbot support system built using **Python, Flask, and Cohere API
 - **Libraries Used:**
   - Flask
   - Flask-CORS
-  - Cohere  - 
+  - Cohere  
   - NumPy
   - Matplotlib
 
