@@ -4,11 +4,11 @@ An AI-powered chatbot support system built using **Python, Flask, and Cohere API
 
 ## Features
 - Real-time chatbot interaction
+- Error handling for failed requests
 - Backend built with Flask
 - Cohere LLM integration for response generation
 - REST API for frontend-backend communication
 - CORS enabled for cross-origin requests
-- Error handling for failed requests
 - Lightweight frontend hosting using Python HTTP server
 
 ---
