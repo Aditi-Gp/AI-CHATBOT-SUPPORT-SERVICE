@@ -1,5 +1,5 @@
 # AI Chatbot Support Service
-
+An AI-powered chatbot support system built using **Python, Flask, and Cohere API** that enables users to interact with a chatbot through a frontend interface and receive intelligent responses in real time.
 
 
 ## Features
