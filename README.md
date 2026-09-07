@@ -1,6 +1,21 @@
 # AI Chatbot Support Service
 An AI-powered chatbot support system built using **Python, Flask, and Cohere API** that enables users to interact with a chatbot through a frontend interface and receive intelligent responses in real time.
 
+
+
+
+## Features
+- Real-time chatbot interaction
+- Error handling for failed requests
+- Backend built with Flask
+- Cohere LLM integration for response generation
+- REST API for frontend-backend communication
+- CORS enabled for cross-origin requests
+- Lightweight frontend hosting using Python HTTP server
+
+---
+
+
 ## Tech Stack
 - **Backend:** Python, Flask
 - **AI Model:** Cohere API (`command-xlarge`)
